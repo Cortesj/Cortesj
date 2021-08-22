@@ -5,7 +5,9 @@ I am a Computer Science Major, specifically Information Systems, at Berea Colleg
 I am currently studying Linux enviorment's and their usage of KVMs. Furthermore, I am looking into the WSL project currently proposed by Microsoft, which seems farily interesting and seems to be gaining speed! I hope to continue to working on some PowerShell scripts to utilize the USMT tool on existing enterprise networks since my Co-op at Shaw Industries.
 
 Contact:
+
 Jose_Cortes@berea.edu
+
 Jose_M_Cortes@outlook.com
 
 <!--
